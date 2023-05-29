@@ -1,0 +1,51 @@
+14.1836 	WARNING 	User requested fullscreen with size [800 600], but screen is actually [1366, 768]. Using actual size
+23.1203 	WARNING 	TextStim.alignHoriz is deprecated. Use alignText and anchorHoriz attributes instead
+23.1216 	WARNING 	TextStim.alignHoriz is deprecated. Use alignText and anchorHoriz attributes instead
+23.1228 	WARNING 	TextStim.alignHoriz is deprecated. Use alignText and anchorHoriz attributes instead
+23.1240 	WARNING 	TextStim.alignHoriz is deprecated. Use alignText and anchorHoriz attributes instead
+23.1265 	WARNING 	TextStim.alignHoriz is deprecated. Use alignText and anchorHoriz attributes instead
+0.0003 	DATA 	START
+8.0049 	DATA 	Displaying Round 1 label
+10.0218 	DATA 	Starting Round 1
+13.1377 	DATA 	round 1 - trial 0 - throw: 1to2 - FBALL
+14.4115 	DATA 	PLAYER HAS BALL
+16.2670 	DATA 	Keypress: c
+16.2671 	DATA 	PLAYER THROWS TO 3 - RT 1.8556
+16.2671 	DATA 	round 1 - trial 1 - throw: 2to3 - FBALL
+20.6480 	DATA 	round 1 - trial 2 - throw: 3to2 - FBALL
+21.7352 	DATA 	PLAYER HAS BALL
+23.2241 	DATA 	Keypress: b
+23.2243 	DATA 	PLAYER THROWS TO 1 - RT 1.4890
+23.2243 	DATA 	round 1 - trial 3 - throw: 2to1 - FBALL
+27.3504 	DATA 	Keypress: b
+27.5491 	DATA 	round 1 - trial 4 - throw: 1to3 - FBALL
+31.1544 	DATA 	round 1 - trial 5 - throw: 3to2 - FBALL
+32.0345 	DATA 	PLAYER HAS BALL
+35.3559 	DATA 	Keypress: c
+35.3561 	DATA 	PLAYER THROWS TO 3 - RT 3.3216
+35.3561 	DATA 	round 1 - trial 6 - throw: 2to3 - FBALL
+39.0929 	DATA 	round 1 - trial 7 - throw: 3to1 - FBALL
+43.1893 	DATA 	round 1 - trial 8 - throw: 1to3 - FBALL
+46.4127 	DATA 	round 1 - trial 9 - throw: 3to2 - FBALL
+47.2948 	DATA 	PLAYER HAS BALL
+49.2586 	DATA 	Keypress: c
+49.2588 	DATA 	PLAYER THROWS TO 3 - RT 1.9640
+49.2589 	DATA 	round 1 - trial 10 - throw: 2to3 - FBALL
+51.5136 	DATA 	Keypress: c
+51.7126 	DATA 	round 1 - trial 11 - throw: 3to2 - FBALL
+52.5941 	DATA 	PLAYER HAS BALL
+55.8396 	DATA 	Keypress: b
+55.8398 	DATA 	PLAYER THROWS TO 1 - RT 3.2456
+55.8398 	DATA 	round 1 - trial 12 - throw: 2to1 - FBALL
+59.6129 	DATA 	Keypress: q
+59.8117 	DATA 	round 1 - trial 13 - throw: 1to3 - FBALL
+63.0610 	DATA 	round 1 - trial 14 - throw: 3to1 - FBALL
+65.6429 	DATA 	round 1 - trial 15 - throw: 1to2 - FBALL
+66.5916 	DATA 	PLAYER HAS BALL
+70.4297 	DATA 	Keypress: c
+70.4299 	DATA 	PLAYER THROWS TO 3 - RT 3.8383
+70.4300 	DATA 	round 1 - trial 16 - throw: 2to3 - FBALL
+71.7824 	DATA 	round 1 - trial 17 - throw: 3to2 - FBALL
+72.5860 	DATA 	Keypress: q
+72.6657 	DATA 	PLAYER HAS BALL
+80.0076 	DATA 	Keypress: q

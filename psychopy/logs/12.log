@@ -1,0 +1,23 @@
+40.3973 	WARNING 	User requested fullscreen with size [800 600], but screen is actually [1366, 768]. Using actual size
+42.7432 	WARNING 	TextStim.alignHoriz is deprecated. Use alignText and anchorHoriz attributes instead
+42.7437 	WARNING 	TextStim.alignHoriz is deprecated. Use alignText and anchorHoriz attributes instead
+42.7441 	WARNING 	TextStim.alignHoriz is deprecated. Use alignText and anchorHoriz attributes instead
+42.7445 	WARNING 	TextStim.alignHoriz is deprecated. Use alignText and anchorHoriz attributes instead
+42.7459 	WARNING 	TextStim.alignHoriz is deprecated. Use alignText and anchorHoriz attributes instead
+0.0004 	DATA 	START
+7.8058 	DATA 	Keypress: q
+8.0032 	DATA 	Displaying Round 1 label
+10.0191 	DATA 	Starting Round 1
+12.5562 	DATA 	round 1 - trial 0 - throw: 1to3 - FBALL
+15.9099 	DATA 	Keypress: q
+16.1077 	DATA 	round 1 - trial 1 - throw: 3to1 - FBALL
+19.2285 	DATA 	round 1 - trial 2 - throw: 1to2 - FBALL
+20.0749 	DATA 	PLAYER HAS BALL
+21.2826 	DATA 	Keypress: v
+21.6411 	DATA 	Keypress: c
+21.6412 	DATA 	PLAYER THROWS TO 3 - RT 1.5663
+21.6413 	DATA 	round 1 - trial 3 - throw: 2to3 - FBALL
+25.0579 	DATA 	Keypress: q
+25.2568 	DATA 	round 1 - trial 4 - throw: 3to2 - FBALL
+26.0759 	DATA 	PLAYER HAS BALL
+26.3910 	DATA 	Keypress: q

@@ -1,0 +1,15 @@
+48.9087 	WARNING 	TextStim.alignHoriz is deprecated. Use alignText and anchorHoriz attributes instead
+48.9103 	WARNING 	TextStim.alignHoriz is deprecated. Use alignText and anchorHoriz attributes instead
+48.9118 	WARNING 	TextStim.alignHoriz is deprecated. Use alignText and anchorHoriz attributes instead
+48.9133 	WARNING 	TextStim.alignHoriz is deprecated. Use alignText and anchorHoriz attributes instead
+48.9160 	WARNING 	TextStim.alignHoriz is deprecated. Use alignText and anchorHoriz attributes instead
+48.9914 	WARNING 	Image size (1360, 619)  was larger than window size (800, 600). Will draw black screen.
+48.9914 	WARNING 	The image does not completely fit inside the window in the X direction.
+48.9914 	WARNING 	The image does not completely fit inside the window in the Y direction.
+0.0003 	DATA 	START
+8.0045 	DATA 	Displaying Round 1 label
+10.0229 	DATA 	Starting Round 1
+12.1341 	DATA 	round 1 - trial 0 - throw: 1to2 - FBALL
+12.9736 	DATA 	PLAYER HAS BALL
+40.7780 	DATA 	Keypress: escape
+44.8620 	DATA 	Keypress: q

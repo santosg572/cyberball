@@ -1,0 +1,236 @@
+56.7446 	WARNING 	User requested fullscreen with size [800 600], but screen is actually [1366, 768]. Using actual size
+58.5112 	WARNING 	TextStim.alignHoriz is deprecated. Use alignText and anchorHoriz attributes instead
+58.5124 	WARNING 	TextStim.alignHoriz is deprecated. Use alignText and anchorHoriz attributes instead
+58.5135 	WARNING 	TextStim.alignHoriz is deprecated. Use alignText and anchorHoriz attributes instead
+58.5145 	WARNING 	TextStim.alignHoriz is deprecated. Use alignText and anchorHoriz attributes instead
+58.5160 	WARNING 	TextStim.alignHoriz is deprecated. Use alignText and anchorHoriz attributes instead
+0.0003 	DATA 	START
+8.0043 	DATA 	Displaying Round 1 label
+10.0386 	DATA 	Starting Round 1
+11.9217 	DATA 	round 1 - trial 0 - throw: 1to2 - FBALL
+12.7464 	DATA 	PLAYER HAS BALL
+12.7685 	DATA 	Keypress: b
+12.7686 	DATA 	PLAYER THROWS TO 1 - RT 0.0221
+12.7686 	DATA 	round 1 - trial 1 - throw: 2to1 - FBALL
+13.0153 	DATA 	Keypress: b
+15.7093 	DATA 	round 1 - trial 2 - throw: 1to3 - FBALL
+19.2050 	DATA 	round 1 - trial 3 - throw: 3to1 - FBALL
+20.9104 	DATA 	round 1 - trial 4 - throw: 1to2 - FBALL
+21.6842 	DATA 	PLAYER HAS BALL
+21.9690 	DATA 	Keypress: c
+21.9692 	DATA 	PLAYER THROWS TO 3 - RT 0.2850
+21.9692 	DATA 	round 1 - trial 5 - throw: 2to3 - FBALL
+24.2602 	DATA 	round 1 - trial 6 - throw: 3to2 - FBALL
+25.0891 	DATA 	PLAYER HAS BALL
+25.7523 	DATA 	Keypress: c
+25.7526 	DATA 	PLAYER THROWS TO 3 - RT 0.6634
+25.7526 	DATA 	round 1 - trial 7 - throw: 2to3 - FBALL
+29.6918 	DATA 	round 1 - trial 8 - throw: 3to2 - FBALL
+30.4708 	DATA 	PLAYER HAS BALL
+30.8161 	DATA 	Keypress: b
+30.8162 	DATA 	PLAYER THROWS TO 1 - RT 0.3454
+30.8162 	DATA 	round 1 - trial 9 - throw: 2to1 - FBALL
+31.0499 	DATA 	Keypress: b
+34.1237 	DATA 	round 1 - trial 10 - throw: 1to3 - FBALL
+37.4062 	DATA 	round 1 - trial 11 - throw: 3to1 - FBALL
+40.6997 	DATA 	round 1 - trial 12 - throw: 1to3 - FBALL
+44.1477 	DATA 	round 1 - trial 13 - throw: 3to2 - FBALL
+44.9174 	DATA 	PLAYER HAS BALL
+45.6176 	DATA 	Keypress: b
+45.6178 	DATA 	PLAYER THROWS TO 1 - RT 0.7004
+45.6178 	DATA 	round 1 - trial 14 - throw: 2to1 - FBALL
+45.8559 	DATA 	Keypress: b
+47.1475 	DATA 	round 1 - trial 15 - throw: 1to3 - FBALL
+50.5052 	DATA 	round 1 - trial 16 - throw: 3to1 - FBALL
+54.7204 	DATA 	round 1 - trial 17 - throw: 1to2 - FBALL
+55.5036 	DATA 	PLAYER HAS BALL
+56.5521 	DATA 	Keypress: c
+56.5522 	DATA 	PLAYER THROWS TO 3 - RT 1.0486
+56.5522 	DATA 	round 1 - trial 18 - throw: 2to3 - FBALL
+60.5572 	DATA 	round 1 - trial 19 - throw: 3to1 - FBALL
+62.4873 	DATA 	round 1 - trial 20 - throw: 1to3 - FBALL
+66.1513 	DATA 	round 1 - trial 21 - throw: 3to2 - FBALL
+66.9227 	DATA 	PLAYER HAS BALL
+67.6010 	DATA 	Keypress: c
+67.6012 	DATA 	PLAYER THROWS TO 3 - RT 0.6785
+67.6012 	DATA 	round 1 - trial 22 - throw: 2to3 - FBALL
+69.9344 	DATA 	round 1 - trial 23 - throw: 3to2 - FBALL
+70.7071 	DATA 	PLAYER HAS BALL
+71.4801 	DATA 	Keypress: c
+71.4803 	DATA 	PLAYER THROWS TO 3 - RT 0.7731
+71.4803 	DATA 	round 1 - trial 24 - throw: 2to3 - FBALL
+73.6246 	DATA 	round 1 - trial 25 - throw: 3to1 - FBALL
+75.5400 	DATA 	round 1 - trial 26 - throw: 1to3 - FBALL
+78.9167 	DATA 	round 1 - trial 27 - throw: 3to1 - FBALL
+80.8727 	DATA 	round 1 - trial 28 - throw: 1to2 - FBALL
+81.6579 	DATA 	PLAYER HAS BALL
+82.1542 	DATA 	Keypress: b
+82.1544 	DATA 	PLAYER THROWS TO 1 - RT 0.4965
+82.1544 	DATA 	round 1 - trial 29 - throw: 2to1 - FBALL
+82.4246 	DATA 	Keypress: b
+84.3344 	DATA 	round 1 - trial 30 - throw: 1to3 - FBALL
+87.0821 	DATA 	round 1 - trial 31 - throw: 3to2 - FBALL
+87.8538 	DATA 	PLAYER HAS BALL
+88.1783 	DATA 	Keypress: b
+88.1785 	DATA 	PLAYER THROWS TO 1 - RT 0.3247
+88.1785 	DATA 	round 1 - trial 32 - throw: 2to1 - FBALL
+88.4342 	DATA 	Keypress: b
+90.4021 	DATA 	round 1 - trial 33 - throw: 1to2 - FBALL
+91.1784 	DATA 	PLAYER HAS BALL
+91.7207 	DATA 	Keypress: c
+91.7209 	DATA 	PLAYER THROWS TO 3 - RT 0.5425
+91.7209 	DATA 	round 1 - trial 34 - throw: 2to3 - FBALL
+93.9546 	DATA 	round 1 - trial 35 - throw: 3to1 - FBALL
+95.6689 	DATA 	round 1 - trial 36 - throw: 1to3 - FBALL
+97.6927 	DATA 	round 1 - trial 37 - throw: 3to1 - FBALL
+100.7714 	DATA 	round 1 - trial 38 - throw: 1to3 - FBALL
+102.9944 	DATA 	round 1 - trial 39 - throw: 3to1 - FBALL
+104.3912 	DATA 	round 1 - trial 40 - throw: 1to2 - FBALL
+105.1758 	DATA 	PLAYER HAS BALL
+105.6433 	DATA 	Keypress: b
+105.6434 	DATA 	PLAYER THROWS TO 1 - RT 0.4676
+105.6435 	DATA 	round 1 - trial 41 - throw: 2to1 - FBALL
+105.9216 	DATA 	Keypress: b
+107.0634 	DATA 	round 1 - trial 42 - throw: 1to2 - FBALL
+107.8374 	DATA 	PLAYER HAS BALL
+108.2094 	DATA 	Keypress: c
+108.2095 	DATA 	PLAYER THROWS TO 3 - RT 0.3721
+108.2096 	DATA 	round 1 - trial 43 - throw: 2to3 - FBALL
+111.3927 	DATA 	round 1 - trial 44 - throw: 3to2 - FBALL
+112.1634 	DATA 	PLAYER HAS BALL
+112.5871 	DATA 	Keypress: b
+112.5873 	DATA 	PLAYER THROWS TO 1 - RT 0.4239
+112.5873 	DATA 	round 1 - trial 45 - throw: 2to1 - FBALL
+112.8183 	DATA 	Keypress: b
+114.9335 	DATA 	round 1 - trial 46 - throw: 1to2 - FBALL
+115.7063 	DATA 	PLAYER HAS BALL
+116.1209 	DATA 	Keypress: c
+116.1211 	DATA 	PLAYER THROWS TO 3 - RT 0.4147
+116.1211 	DATA 	round 1 - trial 47 - throw: 2to3 - FBALL
+119.8918 	DATA 	round 1 - trial 48 - throw: 3to2 - FBALL
+120.6656 	DATA 	PLAYER HAS BALL
+121.5391 	DATA 	Keypress: b
+121.5392 	DATA 	PLAYER THROWS TO 1 - RT 0.8735
+121.5392 	DATA 	round 1 - trial 49 - throw: 2to1 - FBALL
+121.7705 	DATA 	Keypress: b
+124.7192 	DATA 	Keypress: c
+124.9187 	DATA 	round 1 - trial 50 - throw: 1to2 - FBALL
+125.6953 	DATA 	PLAYER HAS BALL
+126.3370 	DATA 	Keypress: c
+126.3371 	DATA 	PLAYER THROWS TO 3 - RT 0.6419
+126.3372 	DATA 	round 1 - trial 51 - throw: 2to3 - FBALL
+128.6750 	DATA 	round 1 - trial 52 - throw: 3to2 - FBALL
+129.4480 	DATA 	PLAYER HAS BALL
+130.4747 	DATA 	Keypress: b
+130.4749 	DATA 	PLAYER THROWS TO 1 - RT 1.0270
+130.4750 	DATA 	round 1 - trial 53 - throw: 2to1 - FBALL
+130.7214 	DATA 	Keypress: b
+134.1090 	DATA 	round 1 - trial 54 - throw: 1to3 - FBALL
+136.0335 	DATA 	round 1 - trial 55 - throw: 3to1 - FBALL
+138.6631 	DATA 	round 1 - trial 56 - throw: 1to3 - FBALL
+142.1383 	DATA 	round 1 - trial 57 - throw: 3to1 - FBALL
+145.7871 	DATA 	round 1 - trial 58 - throw: 1to2 - FBALL
+146.5719 	DATA 	PLAYER HAS BALL
+147.0258 	DATA 	Keypress: c
+147.0259 	DATA 	PLAYER THROWS TO 3 - RT 0.4539
+147.0259 	DATA 	round 1 - trial 59 - throw: 2to3 - FBALL
+151.1000 	DATA 	round 1 - trial 60 - throw: 3to2 - FBALL
+151.8694 	DATA 	PLAYER HAS BALL
+152.3953 	DATA 	Keypress: b
+152.3955 	DATA 	PLAYER THROWS TO 1 - RT 0.5261
+152.3955 	DATA 	round 1 - trial 61 - throw: 2to1 - FBALL
+152.6658 	DATA 	Keypress: b
+156.4331 	DATA 	round 1 - trial 62 - throw: 1to3 - FBALL
+159.7653 	DATA 	round 1 - trial 63 - throw: 3to1 - FBALL
+163.8553 	DATA 	round 1 - trial 64 - throw: 1to2 - FBALL
+164.6356 	DATA 	PLAYER HAS BALL
+165.2494 	DATA 	Keypress: c
+165.2495 	DATA 	PLAYER THROWS TO 3 - RT 0.6138
+165.2495 	DATA 	round 1 - trial 65 - throw: 2to3 - FBALL
+168.5215 	DATA 	round 1 - trial 66 - throw: 3to1 - FBALL
+171.2726 	DATA 	round 1 - trial 67 - throw: 1to2 - FBALL
+172.0490 	DATA 	PLAYER HAS BALL
+173.1551 	DATA 	Keypress: b
+173.1553 	DATA 	PLAYER THROWS TO 1 - RT 1.1063
+173.1553 	DATA 	round 1 - trial 68 - throw: 2to1 - FBALL
+173.4444 	DATA 	Keypress: b
+176.2069 	DATA 	round 1 - trial 69 - throw: 1to3 - FBALL
+179.2801 	DATA 	round 1 - trial 70 - throw: 3to2 - FBALL
+180.0518 	DATA 	PLAYER HAS BALL
+180.7060 	DATA 	Keypress: c
+180.7061 	DATA 	PLAYER THROWS TO 3 - RT 0.6543
+180.7061 	DATA 	round 1 - trial 71 - throw: 2to3 - FBALL
+182.2470 	DATA 	round 1 - trial 72 - throw: 3to1 - FBALL
+186.4626 	DATA 	round 1 - trial 73 - throw: 1to3 - FBALL
+193.3061 	DATA 	Displaying Round 2 label
+195.3134 	DATA 	Starting Round 2
+199.0189 	DATA 	round 2 - trial 74 - throw: 1to3 - FBALL
+202.7564 	DATA 	round 2 - trial 75 - throw: 3to2 - FBALL
+203.5298 	DATA 	PLAYER HAS BALL
+203.9877 	DATA 	Keypress: b
+203.9879 	DATA 	PLAYER THROWS TO 1 - RT 0.4580
+203.9879 	DATA 	round 2 - trial 76 - throw: 2to1 - FBALL
+204.2430 	DATA 	Keypress: b
+206.3999 	DATA 	round 2 - trial 77 - throw: 1to3 - FBALL
+209.0419 	DATA 	round 2 - trial 78 - throw: 3to1 - FBALL
+211.1460 	DATA 	round 2 - trial 79 - throw: 1to2 - FBALL
+211.9258 	DATA 	PLAYER HAS BALL
+212.6339 	DATA 	Keypress: c
+212.6340 	DATA 	PLAYER THROWS TO 3 - RT 0.7082
+212.6341 	DATA 	round 2 - trial 80 - throw: 2to3 - FBALL
+215.5691 	DATA 	round 2 - trial 81 - throw: 3to1 - FBALL
+219.2839 	DATA 	round 2 - trial 82 - throw: 1to3 - FBALL
+222.4270 	DATA 	round 2 - trial 83 - throw: 3to1 - UBALL
+224.0307 	DATA 	round 2 - trial 84 - throw: 1to3 - UBALL
+227.9258 	DATA 	round 2 - trial 85 - throw: 3to1 - UBALL
+231.9572 	DATA 	round 2 - trial 86 - throw: 1to3 - UBALL
+233.5285 	DATA 	round 2 - trial 87 - throw: 3to1 - UBALL
+235.7509 	DATA 	round 2 - trial 88 - throw: 1to3 - UBALL
+238.7350 	DATA 	round 2 - trial 89 - throw: 3to1 - UBALL
+240.9708 	DATA 	round 2 - trial 90 - throw: 1to3 - UBALL
+242.7022 	DATA 	round 2 - trial 91 - throw: 3to1 - UBALL
+246.0427 	DATA 	round 2 - trial 92 - throw: 1to3 - UBALL
+249.4912 	DATA 	round 2 - trial 93 - throw: 3to1 - UBALL
+252.1970 	DATA 	round 2 - trial 94 - throw: 1to3 - UBALL
+256.2599 	DATA 	round 2 - trial 95 - throw: 3to1 - UBALL
+259.4167 	DATA 	round 2 - trial 96 - throw: 1to3 - UBALL
+262.8846 	DATA 	round 2 - trial 97 - throw: 3to1 - UBALL
+264.4710 	DATA 	round 2 - trial 98 - throw: 1to3 - UBALL
+266.5956 	DATA 	round 2 - trial 99 - throw: 3to1 - UBALL
+270.4015 	DATA 	round 2 - trial 100 - throw: 1to3 - UBALL
+272.4256 	DATA 	round 2 - trial 101 - throw: 3to1 - UBALL
+275.4803 	DATA 	round 2 - trial 102 - throw: 1to3 - UBALL
+279.6161 	DATA 	round 2 - trial 103 - throw: 3to1 - UBALL
+281.5042 	DATA 	round 2 - trial 104 - throw: 1to3 - UBALL
+284.1184 	DATA 	round 2 - trial 105 - throw: 3to1 - UBALL
+287.9516 	DATA 	round 2 - trial 106 - throw: 1to3 - UBALL
+290.5912 	DATA 	round 2 - trial 107 - throw: 3to1 - UBALL
+293.3808 	DATA 	round 2 - trial 108 - throw: 1to3 - UBALL
+296.8354 	DATA 	round 2 - trial 109 - throw: 3to1 - UBALL
+300.0825 	DATA 	round 2 - trial 110 - throw: 1to3 - UBALL
+302.7945 	DATA 	round 2 - trial 111 - throw: 3to1 - UBALL
+304.8339 	DATA 	round 2 - trial 112 - throw: 1to3 - UBALL
+308.4282 	DATA 	round 2 - trial 113 - throw: 3to1 - UBALL
+311.8740 	DATA 	round 2 - trial 114 - throw: 1to3 - UBALL
+314.6219 	DATA 	round 2 - trial 115 - throw: 3to1 - UBALL
+317.6293 	DATA 	round 2 - trial 116 - throw: 1to3 - UBALL
+321.1942 	DATA 	round 2 - trial 117 - throw: 3to1 - UBALL
+323.6720 	DATA 	round 2 - trial 118 - throw: 1to3 - UBALL
+325.2079 	DATA 	round 2 - trial 119 - throw: 3to1 - UBALL
+329.2659 	DATA 	round 2 - trial 120 - throw: 1to3 - UBALL
+332.0355 	DATA 	round 2 - trial 121 - throw: 3to1 - UBALL
+333.8196 	DATA 	round 2 - trial 122 - throw: 1to3 - UBALL
+335.9653 	DATA 	round 2 - trial 123 - throw: 3to1 - UBALL
+337.4453 	DATA 	round 2 - trial 124 - throw: 1to3 - UBALL
+341.0959 	DATA 	round 2 - trial 125 - throw: 3to1 - UBALL
+344.4984 	DATA 	round 2 - trial 126 - throw: 1to3 - UBALL
+347.6865 	DATA 	round 2 - trial 127 - throw: 3to1 - UBALL
+349.9028 	DATA 	round 2 - trial 128 - throw: 1to3 - UBALL
+351.5750 	DATA 	round 2 - trial 129 - throw: 3to1 - UBALL
+354.8750 	DATA 	round 2 - trial 130 - throw: 1to3 - UBALL
+358.5274 	DATA 	round 2 - trial 131 - throw: 3to1 - UBALL
+361.4660 	DATA 	round 2 - trial 132 - throw: 1to3 - UBALL
+365.0606 	DATA 	round 2 - trial 133 - throw: 3to1 - UBALL
+368.7220 	DATA 	round 2 - trial 134 - throw: 1to3 - UBALL
+372.7182 	DATA 	round 2 - trial 135 - throw: 3to1 - UBALL
+388.9696 	DATA 	END
